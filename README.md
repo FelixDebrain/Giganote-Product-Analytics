@@ -25,6 +25,18 @@ I proceeded to standardize the dataset to ensure consistency and analytical accu
 ![image alt](https://github.com/FelixDebrain/Giganote-Product-Analytics/blob/017f63af356b6d0866d194f601b12d9ffd0c07d8/Screenshot%202025-12-12%20160250.png)
 
 ## Exploratory Data Analysis Question 1: Average Session Duration per Device Type
-## The Query
+### The Query
 ![image alt](https://github.com/FelixDebrain/Giganote-Product-Analytics/blob/0df745560fad8196e127aee73b65c9fc20f0faa5/Screenshot%202025-12-12%20162004.png)
+### The Result
+- Desktop (Windows Laptop) users have the longest average sessions (34 minutes). This means the desktop app is the primary environment for deep productivity work.
+- iOS users are the most engaged mobile users, spending more time than Android users.
+- Android usage is healthy but more casual, suggesting mobile users prefer quick interactions.
+- Smartwatch usage is extremely short, indicating it functions mainly for notifications or quick checks, not heavy interaction.
+
+### Insight
+- Invest more in desktop features, because it's the strongest platform for deep work. Enhancing editing tools, offline mode, and workspace organization makes sense.
+- Optimize the iOS app. High engagement means a big ROI from improving iOS experience.
+- Improve mobile onboarding. Android engagement is lower; better tutorials or reminders can help.
+- Keep smartwatch features simple, quick actions only. No need to invest heavily here.
+
 
