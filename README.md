@@ -23,3 +23,8 @@ After the working table was created, I implemented a duplicate-removal process u
 I proceeded to standardize the dataset to ensure consistency and analytical accuracy.
 
 ![image alt](https://github.com/FelixDebrain/Giganote-Product-Analytics/blob/017f63af356b6d0866d194f601b12d9ffd0c07d8/Screenshot%202025-12-12%20160250.png)
+
+## Exploratory Data Analysis Question 1: Average Session Duration per Device Type
+## The Query
+![image alt}(https://github.com/FelixDebrain/Giganote-Product-Analytics/blob/0df745560fad8196e127aee73b65c9fc20f0faa5/Screenshot%202025-12-12%20162004.png)
+
