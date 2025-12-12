@@ -19,3 +19,7 @@ To preserve the integrity of the original dataset, my first step was to copy the
 After the working table was created, I implemented a duplicate-removal process using ROW_NUMBER() with a PARTITION BY clause. This method assigns a sequential row number to records that share the same key fields (such as session_id, user_id, or timestamp). Only rows with ROW_NUMBER() = 1 were retained, ensuring a clean, de-duplicated dataset.
 
 ![image alt](https://github.com/FelixDebrain/Giganote-Product-Analytics/blob/10a6de41a4186e18abe2f03c1de9ad877e8ce6c4/Screenshot%202025-12-12%20154334.png)
+
+I performed data standardization to align formats, improve quality, and support reliable analysis.
+
+![image alt]()
