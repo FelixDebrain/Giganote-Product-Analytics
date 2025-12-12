@@ -26,5 +26,5 @@ I proceeded to standardize the dataset to ensure consistency and analytical accu
 
 ## Exploratory Data Analysis Question 1: Average Session Duration per Device Type
 ## The Query
-![image alt}(https://github.com/FelixDebrain/Giganote-Product-Analytics/blob/0df745560fad8196e127aee73b65c9fc20f0faa5/Screenshot%202025-12-12%20162004.png)
+![image alt](https://github.com/FelixDebrain/Giganote-Product-Analytics/blob/0df745560fad8196e127aee73b65c9fc20f0faa5/Screenshot%202025-12-12%20162004.png)
 
