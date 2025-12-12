@@ -20,6 +20,6 @@ After the working table was created, I implemented a duplicate-removal process u
 
 ![image alt](https://github.com/FelixDebrain/Giganote-Product-Analytics/blob/10a6de41a4186e18abe2f03c1de9ad877e8ce6c4/Screenshot%202025-12-12%20154334.png)
 
-I performed data standardization to align formats, improve quality, and support reliable analysis.
+I proceeded to standardize the dataset to ensure consistency and analytical accuracy.
 
 ![image alt]()
