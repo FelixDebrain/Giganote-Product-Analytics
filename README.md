@@ -28,6 +28,7 @@ I proceeded to standardize the dataset to ensure consistency and analytical accu
 ### The Query
 ![image alt](https://github.com/FelixDebrain/Giganote-Product-Analytics/blob/0df745560fad8196e127aee73b65c9fc20f0faa5/Screenshot%202025-12-12%20162004.png)
 ### The Result
+![image alt] (https://github.com/FelixDebrain/Giganote-Product-Analytics/blob/bd93dfc3861393c14915925c68644fe33d34ae84/Screenshot%202025-12-12%20163553.png)
 - Desktop (Windows Laptop) users have the longest average sessions (34 minutes). This means the desktop app is the primary environment for deep productivity work.
 - iOS users are the most engaged mobile users, spending more time than Android users.
 - Android usage is healthy but more casual, suggesting mobile users prefer quick interactions.
