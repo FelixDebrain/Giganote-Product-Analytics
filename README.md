@@ -13,3 +13,9 @@ Below are what the columns look like:
 To preserve the integrity of the original dataset, my first step was to copy the raw data into a new working table. This allowed me to perform cleaning operations without modifying the source table. I created the new table using a standard CREATE TABLE … AS SELECT approach after copying the dataset to the clipboard and importing it into MySQL.
 
 ![image alt](https://github.com/FelixDebrain/Giganote-Product-Analytics/blob/fdc0cd52b07f8abf508212d37c4e68758f175caa/Screenshot%202025-12-12%20154209.png)
+
+### Duplicate Removal Process 
+
+After the working table was created, I implemented a duplicate-removal process using ROW_NUMBER() with a PARTITION BY clause. This method assigns a sequential row number to records that share the same key fields (such as session_id, user_id, or timestamp). Only rows with ROW_NUMBER() = 1 were retained, ensuring a clean, de-duplicated dataset.
+
+![image alt]()
