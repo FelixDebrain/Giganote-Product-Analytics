@@ -40,4 +40,12 @@ I proceeded to standardize the dataset to ensure consistency and analytical accu
 - Improve mobile onboarding. Android engagement is lower; better tutorials or reminders can help.
 - Keep smartwatch features simple, quick actions only. No need to invest heavily here.
 
-
+## Exploratory Data Analysis Question 2: Country with the highest engagement (actions per session)?
+### The Query
+![image alt](https://github.com/FelixDebrain/Giganote-Product-Analytics/blob/22c2b96e8d9d3d485a4ea4489a89d7dfc47ca695/Screenshot%202025-12-12%20164009.png)
+### The Result
+![image alt](https://github.com/FelixDebrain/Giganote-Product-Analytics/blob/d9c0015819b6902541422da8efdfa8ccef3c6f88/Screenshot%202025-12-12%20165351.png)
+- India and Germany show the highest engagement, but limited data means we should treat them as emerging high-value segments.
+- The United Kingdom is the most reliable high-engagement market, showing strong usage depth across multiple sessions.
+- The United States of America has moderate engagement but consistent activity, making it a good target for feature improvements and retention campaigns.
+- Nigeria has the highest session volume, showing strong adoption, but lower engagement per session indicates onboarding or usability improvements may be needed.
