@@ -49,3 +49,9 @@ I proceeded to standardize the dataset to ensure consistency and analytical accu
 - The United Kingdom is the most reliable high-engagement market, showing strong usage depth across multiple sessions.
 - The United States of America has moderate engagement but consistent activity, making it a good target for feature improvements and retention campaigns.
 - Nigeria has the highest session volume, showing strong adoption, but lower engagement per session indicates onboarding or usability improvements may be needed.
+
+### Insight
+- Prioritize deeper engagement features for the UK and USA. These countries show repeat usage and will respond well to improvements.
+- Target Nigeria for onboarding improvements. High traffic but lower engagement suggests new users need better guidance.
+- Explore India and Germany as high-value early markets, even with low sample size, actions/session is extremely strong.
+- Localize content or notifications by region, to increase engagement where it’s low.
