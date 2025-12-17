@@ -90,7 +90,7 @@ I proceeded to standardize the dataset to ensure consistency and analytical accu
 ### The Query
 ![image alt](https://github.com/FelixDebrain/Giganote-Product-Analytics/blob/ca85793d87c367cd3b99060b5f71d99bcfec8ff7/Screenshot%202025-12-17%20163925.png)
 ### The Result
-![image alt]()
+![image alt](https://github.com/FelixDebrain/Giganote-Product-Analytics/blob/3bdd5d39ef5829966192d65321479b645fdadd24/Screenshot%202025-12-17%20163937.png)
 - Germany shows premium business-grade usage patterns. This is a high-priority expansion market for enterprise/document-heavy features.
 - India is a top expansion market. It combines high subscriber usage with very high document workflow activity.
 - Nigeria is an emerging growth market. This country has high engagement, but users are still mostly casual
