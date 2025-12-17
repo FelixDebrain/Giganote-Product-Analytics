@@ -71,3 +71,7 @@ I proceeded to standardize the dataset to ensure consistency and analytical accu
   ### Insight
 - Users on WiFi or 5G are likely in urban areas or office settings → good targets for premium features.
 - 3G/4G users are more casual → good for freemium onboarding campaigns.
+
+## Exploratory Data Analysis Question 4: Compare Device Quality
+### The Query
+![image alt]()
