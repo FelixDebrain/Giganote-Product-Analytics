@@ -56,7 +56,7 @@ I proceeded to standardize the dataset to ensure consistency and analytical accu
 
 ## Exploratory Data Analysis Question 3: The network type that produces the highest engagement?
 ### The Query
-![image alt]()
+![image alt](https://github.com/FelixDebrain/Giganote-Product-Analytics/blob/690c8a9c01a33a9b44a0e1fefee494f3ed260bbf/Screenshot%202025-12-17%20153624.png)
 ### The Result
 ![image alt]()
 - WiFi has the highest engagement (30 actions per session).
