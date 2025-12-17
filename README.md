@@ -88,7 +88,7 @@ I proceeded to standardize the dataset to ensure consistency and analytical accu
 
 ## Exploratory Data Analysis Question 5:  ExportPDF usage by country (business users vs casual users)
 ### The Query
-![image alt]()
+![image alt](https://github.com/FelixDebrain/Giganote-Product-Analytics/blob/ca85793d87c367cd3b99060b5f71d99bcfec8ff7/Screenshot%202025-12-17%20163925.png)
 ### The Result
 ![image alt]()
 - Germany shows premium business-grade usage patterns. This is a high-priority expansion market for enterprise/document-heavy features.
