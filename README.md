@@ -6,8 +6,6 @@
 This project analyzes a synthetic dataset representing user activity on GigaNote, a fictional SaaS productivity app that allows users to create notes, export PDFs, sync data across devices, and manage documents. The dataset includes realistic app usage metrics such as session duration, device type, network type, feature usage, subscription status, and user behavior across different countries.
 Below are what the columns look like: 
 
-![image alt](https://github.com/FelixDebrain/Giganote-Product-Analytics/blob/6c8688117d206f0bf06f73ee4bd4a5cecd76b427/Screenshot%202025-12-12%20114607.png)
-
 ### Data Preparation and Table Creation Process
 
 To preserve the integrity of the original dataset, my first step was to copy the raw data into a new working table. This allowed me to perform cleaning operations without modifying the source table. I created the new table using a standard CREATE TABLE … AS SELECT approach after copying the dataset to the clipboard and importing it into MySQL.
