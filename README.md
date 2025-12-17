@@ -53,3 +53,21 @@ I proceeded to standardize the dataset to ensure consistency and analytical accu
 - Target Nigeria for onboarding improvements. High traffic but lower engagement suggests new users need better guidance.
 - Explore India and Germany as high-value early markets, even with low sample size, actions/session is extremely strong.
 - Localize content or notifications by region, to increase engagement where it’s low.
+
+## Exploratory Data Analysis Question 3: The network type that produces the highest engagement?
+### The Query
+![image alt]()
+### The Result
+![image alt]()
+- WiFi has the highest engagement (30 actions per session).
+  Likely because WiFi is more stable, faster, and less battery-draining, and sessions are also frequent (13 sessions), making this metric reliable.
+- 5G is second (21.25 actions/session).
+  High-speed mobile network drives good engagement, but fewer sessions (4) → smaller sample size, this shows potential for mobile power users.
+- 4G is moderate (12.78 actions/session)
+  Many users rely on 4G for casual app interactions.
+- 3G is the lowest (7.75 actions/session)
+  Poor performance due to slower speeds and possible app lag, and this indicates that users on 3G may have frustrating experience, causing lower engagement.
+
+  ### Insight
+- Users on WiFi or 5G are likely in urban areas or office settings → good targets for premium features.
+- 3G/4G users are more casual → good for freemium onboarding campaigns.
