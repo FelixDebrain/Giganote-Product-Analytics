@@ -85,3 +85,15 @@ I proceeded to standardize the dataset to ensure consistency and analytical accu
 - App optimization: Focus on low-end Android and older devices to reduce crashes for non-subscribers.
 - Premium positioning: Subscribers enjoy stable performance on high-end devices, this reinforces the value of subscription.
 - Targeting/marketing: Users with lower-end devices might be encouraged to subscribe if app stability improves.
+
+## Exploratory Data Analysis Question 5:  ExportPDF usage by country (business users vs casual users)
+### The Query
+![image alt]()
+### The Result
+![image alt]()
+- Germany shows premium business-grade usage patterns. This is a high-priority expansion market for enterprise/document-heavy features.
+- India is a top expansion market. It combines high subscriber usage with very high document workflow activity.
+- Nigeria is an emerging growth market. This country has high engagement, but users are still mostly casual
+
+### Insight
+ExportPDF engagement is strongest among subscribers in Germany and India, showing clear professional and enterprise usage patterns. Nigeria, although driven by casual users, demonstrates high engagement (42 actions/session), indicating strong potential for adoption through targeted onboarding and device-optimized export flows.
