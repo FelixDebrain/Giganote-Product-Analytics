@@ -58,7 +58,7 @@ I proceeded to standardize the dataset to ensure consistency and analytical accu
 ### The Query
 ![image alt](https://github.com/FelixDebrain/Giganote-Product-Analytics/blob/690c8a9c01a33a9b44a0e1fefee494f3ed260bbf/Screenshot%202025-12-17%20153624.png)
 ### The Result
-![image alt]()
+![image alt](https://github.com/FelixDebrain/Giganote-Product-Analytics/blob/6d2daebeee323728449f552f96231c3e9a36c6dc/Screenshot%202025-12-17%20155451.png)
 - WiFi has the highest engagement (30 actions per session).
   Likely because WiFi is more stable, faster, and less battery-draining, and sessions are also frequent (13 sessions), making this metric reliable.
 - 5G is second (21.25 actions/session).
