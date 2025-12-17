@@ -74,4 +74,14 @@ I proceeded to standardize the dataset to ensure consistency and analytical accu
 
 ## Exploratory Data Analysis Question 4: Compare Device Quality
 ### The Query
+![image alt](https://github.com/FelixDebrain/Giganote-Product-Analytics/blob/aa64bf8317c1a0a8cd88d818558bffab159127eb/Screenshot%202025-12-17%20160845.png)
+### The Result
 ![image alt]()
+- Subscribers crash less → better devices, all subscribers use premium devices → zero crashes while non-subscribers use budget or older devices → high crash rate.
+- Device quality directly impacts engagement and stability. Subscribers’ devices are Windows Laptops, iPhones, Pixels → longer sessions, smooth performance and non-subscribers’ devices and older Android, lower-end phones
+- Shorter sessions, more crashes.
+
+### Insight
+- App optimization: Focus on low-end Android and older devices to reduce crashes for non-subscribers.
+- Premium positioning: Subscribers enjoy stable performance on high-end devices, this reinforces the value of subscription.
+- Targeting/marketing: Users with lower-end devices might be encouraged to subscribe if app stability improves.
