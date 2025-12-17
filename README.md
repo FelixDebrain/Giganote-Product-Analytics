@@ -76,7 +76,7 @@ I proceeded to standardize the dataset to ensure consistency and analytical accu
 ### The Query
 ![image alt](https://github.com/FelixDebrain/Giganote-Product-Analytics/blob/aa64bf8317c1a0a8cd88d818558bffab159127eb/Screenshot%202025-12-17%20160845.png)
 ### The Result
-![image alt]()
+![image alt](https://github.com/FelixDebrain/Giganote-Product-Analytics/blob/1f07ecd56bf80e3b58e8cfb68a1577dd204ae347/Screenshot%202025-12-17%20162608.png)
 - Subscribers crash less → better devices, all subscribers use premium devices → zero crashes while non-subscribers use budget or older devices → high crash rate.
 - Device quality directly impacts engagement and stability. Subscribers’ devices are Windows Laptops, iPhones, Pixels → longer sessions, smooth performance and non-subscribers’ devices and older Android, lower-end phones
 - Shorter sessions, more crashes.
