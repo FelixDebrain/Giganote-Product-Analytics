@@ -4,7 +4,6 @@
 
 ### Project Overview 
 This project analyzes a synthetic dataset representing user activity on GigaNote, a fictional SaaS productivity app that allows users to create notes, export PDFs, sync data across devices, and manage documents. The dataset includes realistic app usage metrics such as session duration, device type, network type, feature usage, subscription status, and user behavior across different countries.
-Below are what the columns look like: 
 
 ### Data Preparation and Table Creation Process
 
